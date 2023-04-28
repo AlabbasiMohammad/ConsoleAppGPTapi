@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dT6m5iTFNyoVgFi4b8xbeep5vA7/oXzVPpAIgKlz1aclracWJhhFBmVv0MgrjgVVzuC+OpaclBBtHHJTwofQCA==",
+  "success": true,
+  "projectFilePath": "/Users/mohammadal-abbasi/RiderProjects/ConsoleAppGPTapi/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohammadal-abbasi/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
